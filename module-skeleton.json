@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-inventory-flutter",
+  "capabilityKey": "liberusoftware/module-maintenance-inventory",
+  "presentation": "mobile-flutter",
+  "package": "module_maintenance_inventory_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/maintenance/nextjs/inventory.md",
+  "presentationPlan": "projects/maintenance/flutter/inventory.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
